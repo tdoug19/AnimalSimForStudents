@@ -20,6 +20,7 @@ public class Organism {
 		this.name = name;
 	}
 	
+	
 	public String getName()
 	{
 		return name;
@@ -33,16 +34,31 @@ public class Organism {
 		
 	}
 	
+	public void speak()
+	{
+		System.out.println("I am a : " + name );
+	}
+	
+	
+	public void sleep()
+	{
+		System.out.println("zzzzzzzzzzzzz");
+	}
+
+	public void move()
+	{
+		System.out.println("I want to move ");
+	}
+	
+	
+	
 	public ArrayList<Organism> getOrganismEats()
 	{
 		return organismEats;
 	}
 	
 
-	public void speak()
-	{
-		System.out.println("I am a default organism");
-	}
+	
 
 	
 }
