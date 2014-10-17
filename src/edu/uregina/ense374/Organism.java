@@ -1,7 +1,7 @@
 /**
  * Name: Organism
  * 
- * Description:  This class indicates an Ogranism.  An organism will 
+ * Description:  This class indicates an Organism.  An organism will 
  * 				perhaps live at a location in our world grid. 
  */
 package edu.uregina.ense374;
