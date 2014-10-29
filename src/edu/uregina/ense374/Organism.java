@@ -50,7 +50,7 @@ public class Organism {
 
 	public void move()
 	{
-		System.out.println("I want to move ");
+		System.out.println("I want to move it, move it.");
 	}
 	
 	

@@ -13,7 +13,6 @@ public class Habitat {
 	public Location[][] world = new Location[WORLDSIZE][WORLDSIZE];
 
 	
-	
 	/**
 	 * Build the locations into the world;
 	 */

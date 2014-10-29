@@ -9,7 +9,7 @@ package edu.uregina.ense374;
  */
 public class Location {
 	
-	private  Organism organism;
+	public  Organism organism;
 	
 	
 	public Location()
