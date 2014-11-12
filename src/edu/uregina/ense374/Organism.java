@@ -34,7 +34,7 @@ public class Organism {
 	 */
 	public void eat()
 	{
-		
+	
 	}
 	
 	public void speak()
