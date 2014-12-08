@@ -18,6 +18,11 @@ public class Organism {
 	//public Location2D currentLocation;
 	protected  ArrayList<Organism> organismEats = new ArrayList<Organism>();
 	
+	public Organism ()
+	{
+		
+	}
+	
 	public Organism(String name)
 	{
 		this.name = name;
